@@ -1,6 +1,8 @@
 # eslint-plugin-vertical-straight-align
 
-plugin for vertical align
+Makes your imports smooth and easy to read
+
+[![eslint-plugin-vertical-straight-align](https://i.makeagif.com/media/3-03-2024/YvnoVA.gif)](https://i.makeagif.com/media/3-03-2024/YvnoVA.gif)
 
 ## Installation
 
